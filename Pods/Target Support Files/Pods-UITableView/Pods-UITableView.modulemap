@@ -1,0 +1,6 @@
+framework module Pods_UITableView {
+  umbrella header "Pods-UITableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
